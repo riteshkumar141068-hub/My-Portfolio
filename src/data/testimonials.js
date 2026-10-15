@@ -1,0 +1,50 @@
+export const testimonials = [
+    {
+        id: 1,
+        name: 'Vikram Sharma',
+        role: 'Senior Engineering Lead, Apexsquare Solutions',
+        content: 'Ritesh is an exceptionally curious and dedicated engineer. During his internship, his ability to grasp Java and Python architectures and deliver clean, tested work was outstanding.',
+        rating: 5,
+        avatar: '👨‍💼',
+    },
+    {
+        id: 2,
+        name: 'Dr. S. K. Verma',
+        role: 'Professor (CSE), AKTU',
+        content: 'Ritesh has demonstrated strong analytical skills and solid problem-solving fundamentals in AI and data structures. He approaches complex algorithms with clarity and academic diligence.',
+        rating: 5,
+        avatar: '👨‍🏫',
+    },
+    {
+        id: 3,
+        name: 'Ananya Gupta',
+        role: 'Full-Stack Developer & Peer Collaborator',
+        content: 'Working with Ritesh on full-stack and AI projects has always been seamless. He writes clean, modular code, communicates effectively, and always meets deadlines.',
+        rating: 5,
+        avatar: '👩‍💻',
+    },
+    {
+        id: 4,
+        name: 'Rohan Mehra',
+        role: 'Lead Project Mentor',
+        content: 'His passion for Artificial Intelligence and Cybersecurity stands out. Ritesh takes feedback constructively and constantly pushes himself to learn modern frameworks and tools.',
+        rating: 5,
+        avatar: '👨‍🚀',
+    },
+    {
+        id: 5,
+        name: 'Pooja Singh',
+        role: 'Data Science Colleague',
+        content: "Ritesh has a genuine curiosity for data analytics and automation. His work on data preprocessing and visualization pipelines was thoroughly thought-out and reliable.",
+        rating: 5,
+        avatar: '👩‍🔬',
+    },
+    {
+        id: 6,
+        name: 'Kunal Patel',
+        role: 'Software Architect',
+        content: "From backend APIs to UI design, Ritesh bridges the gap effortlessly. A fast learner and reliable team player who will be a great asset to any software engineering team.",
+        rating: 5,
+        avatar: '💻',
+    }
+];
