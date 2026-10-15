@@ -47,8 +47,8 @@ export const projects = [
         category: 'Web Engineering',
         color: '#A855F7',
         year: '2026',
-        link: 'https://github.com/riteshkumar141068-hub/MyPortfolio',
-        github: 'https://github.com/riteshkumar141068-hub/MyPortfolio',
+        link: 'https://github.com/riteshkumar141068-hub/My-Portfolio',
+        github: 'https://github.com/riteshkumar141068-hub/My-Portfolio',
         image: '/images/project2.png',
     }
 ];
